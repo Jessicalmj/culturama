@@ -1,1 +1,1 @@
-# Projeto feito durante o curso de -Praticando-CSS-Grid-Flexbox da Alura.
+# Projeto feito durante o curso de Pratica CSS Grid Flexbox da Alura.
